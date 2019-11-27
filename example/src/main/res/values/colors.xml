@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#008577</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="color_red_dark">#E51C23</color>
+    <color name="color_red_2">#E6262D</color>
+    <color name="color_red_3">#E73339</color>
+    <color name="color_red_4">#E83D43</color>
+    <color name="color_red_alpha_11">#11E51C23</color>
+
+    <color name="color_black">#000000</color>
+    <color name="color_black_2">#333333</color>
+    <color name="color_black_3">#010000</color>
+
+    <color name="white">#ffffff</color>
+    <color name="color_white">#ffffff</color>
+    <color name="color_gray_c8">#C8C8C8</color>
+    <color name="color_gray_e8">#ffe8e8e8</color>
+    <color name="color_gray_ee">#ffeeeeee</color>
+    <color name="color_gray_66">#666666</color>
+    <color name="color_gray_88">#888888</color>
+    <color name="color_gray_99">#999999</color>
+    <color name="color_gray_f7">#F7F7F7</color>
+    <color name="color_gray_f9">#F9F9F9</color>
+    <color name="color_gray_light">#F0F0F2</color>
+    <color name="color_gray_f4f5">#fff4f5fb</color>
+    <color name="color_gray_f4">#F4F4F4</color>
+    <color name="color_bbb">#bbbbbb</color>
+    <color name="yellow">#F9F6EB</color>
+    <color name="color_blue">#0075FF</color>
+    <color name="color_orange">#E99220</color>
+    <color name="color_orange_2">#FFAF00</color>
+    <color name="corlor_orange_3">#FCAC10</color>
+    <color name="color_green">#30B515</color>
+
+    <color name="color_line">#ffe8e8e8</color>
+    <color name="color_line2">#ffc0c0c0</color>
+
+    <color name="transparent">#00000000</color>
+    <color name="main_bg_color">#F4F4F4</color>
+
+    <color name="hint_color">#888888</color>
+
+    <color name="color_e51c23">#e51c23</color>
+    
+    <color name="color_323233">#323233</color>
+
+</resources>
